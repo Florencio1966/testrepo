@@ -1,0 +1,110 @@
+Welcome to Introduction
+to CI/CD using AI. After watching this video, you'll be able to: define the significance
+of AI and CI/CD, discuss the role
+of AI and CI/CD, identify the challenges
+of moving from the traditional CI
+to an AI-driven CI, list a few AI-enabled
+CI/CD tools and platforms, explain a few scenarios where AI is used in
+software development, explore the future trends and considerations of
+using AI in CI/CD. 
+
+Let's begin by recalling
+what CI/CD is. CI/CD is an acronym for continuous integration and continuous development
+or deployment. It is a method to
+frequently deliver applications by
+leveraging automation. Now, imagine a software
+development team incorporating AI-driven testing tools
+into their CI/CD workflow. As they make code changes, these AI tools autonomously recognize the most
+crucial test cases drastically reducing
+testing time and manual effort by maintaining
+high software quality. This integration
+not only expedites the development process but also enhances overall
+productivity and efficiency in delivering
+reliable software. Let's discuss the
+important areas where AI is reshaping CI/CD processes. The first area is
+automated testing and quality assurance. AI-driven testing tools
+automate the testing process, ensuring software quality
+by identifying issues. Next, code analysis
+and optimization. AI tools, employing machine
+learning algorithms, detect patterns and code
+issues and recommend optimizations for better code-based performance
+and maintenance. They enhance code
+quality, security, and adhere to coding standards, leading to higher-quality code and faster delivery cycles. Next, AI helps in
+software deployment. 
+
+Predictive analytics,
+powered by AI, revolutionizes software
+development and CI/CD pipelines. By analyzing historical data
+and environmental factors, AI models predict
+deployment risks, enabling proactive
+issue resolution and optimizing deployment
+strategies for efficiency. 
+
+Further, AI facilitates intelligent release
+orchestration. AI-driven release
+orchestration tools intelligently schedule software
+component deployments, understanding dependencies
+and resource constraints. They adapt to changes such as
+scaling resources based on demand or rolling back deployment if anomalies
+are detected, ensuring smooth deployments across different environments. Continuous monitoring
+and feedback. 
+
+
+
+AI-based monitoring
+tools instantly detect abnormal behavior and security threats, enabling proactive
+issue resolution and ensuring system reliability. Additionally, AI
+analyzes user feedback for insights that aid future feature deployment
+and enhancements. Embracing a potential of AI and CI/CD confronts challenges, and yet, there is an array of AI-enabled CI/CD tools and platforms that help in
+software development. A few of them include, Jenkins: an open-source
+automation server known for its CI/CD
+capabilities. IBM Watson Studio, WS, and Watson Machine Learning, WML: offers DevOps
+automation for ML workflows. Codefresh: utilizes AI for intelligent caching
+and predictive scaling, enhancing the
+development process. GitLab CI/CD: seamlessly integrates with version control for streamlined
+CI/CD management. PagerDuty AIOps:
+leverages intelligence and automation to aid engineering teams and
+incident response. Harness: uses AI
+to revolutionize software release processes through automation and analysis. Snyk: incorporates AI and ML for automated
+security testing and vulnerability management. Dynatrace's Davis AI: an automated engine assisting in managing complex
+IT environments. Let's look at a
+few examples where AI-driven tools help in
+software development. Let's take a scenario where a
+development team integrates an AI-driven tool into
+their CI/CD pipeline. What difference
+can AI bring here? The AI analyzes
+new code changes, automatically creating
+comprehensive test cases, reducing manual effort, and
+enhancing testing quality. In another scenario,
+employing AI, an organization predicts
+potential build failures in their CI/CD pipeline. Here, AI helps to analyze historical data and
+identify failure patterns, alerting teams beforehand for preemptive actions and
+smoother software delivery. Now let's explore the
+evolving trends for improved decision making
+within software development. In the future, you will see
+AI-driven operationalization. Monitoring and observability
+solutions now integrate advanced AI
+capabilities to enhance understanding of application
+performance and behavior. These solutions furnish
+valuable information that can influence
+continuous delivery as CI/CD solutions integrate with diverse data sources to anticipate application
+or service defects, report such
+information, and take necessary actions as a
+part of the CI/CD process. Next, AI will elevate
+delivery of health insights. AI and ML techniques correlate metrics with
+business objectives, providing deeper insights into application
+release quality, including explainable
+AI features clarifies decision rationale, enhancing AI/ML
+model utilization within the CI/CD pipelines. Automated verification. AI and machine learning
+techniques like natural language processing
+and pattern recognition empower users to
+swiftly and accurately analyze data from
+various CI/CD tools. Integrating AI/ML accelerates software verification and
+introduces scalability, facilitating automated
+decision-making in the delivery pipeline. In this video, you learned that CI/CD is used to deliver
+applications using automation. Some of the common
+AI-enabled CI/CD tools and platforms that help in software development
+include Jenkins, IBM Watson Studio, WS, and Watson Machine Learning, WML, Codefresh, GitLab, CI/CD, PagerDuty AIOps, Harness, Snyk,
+Dynatrace's Davis AI. In the future, AI will help to achieve AI-driven
+operationalization, elevate delivery
+health insights, and automate verification.
